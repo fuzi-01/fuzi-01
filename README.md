@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fuzi-01
 - 👀 I’m interested in managing products and teams
 - 🌱 I’m currently learning web3
-- 💞️ I’m looking to collaborate on startups
+- 💞️ I’m looking to collaborate on startups and projects
 - 📫 How to reach me : ahmadabdullahiahmad2@gmail.com
 
 <!---
